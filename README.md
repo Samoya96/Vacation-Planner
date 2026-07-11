@@ -43,5 +43,3 @@ The Vacation Planner Mobile Application offers a comprehensive suite of capabili
 Version 1.0 – Capstone Release  
 Includes all required features for the WGU Software Development Capstone.
 
-## 8. Repository
-https://gitlab.com/wgu-gitlab-environment/student-repos/sbec219/d424-software-engineering-capstone.git
