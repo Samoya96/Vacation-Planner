@@ -25,7 +25,11 @@ The Vacation Planner Mobile Application offers a comprehensive suite of capabili
 ## 5. Installation Instructions
 
 ### Installing the Release APK
-1. Download the signed release APK from the project’s GitHub Pages download link.
+1. Download the signed release APK from the project’s GitHub Pages download link:
+ 
+   https://samoyatech.github.io/D424-Vacation-Planner-App/
+
+ 
 2. Transfer the APK to an Android device if necessary.
 3. On the device, enable installation from unknown sources:  
    Settings → Security → Install unknown apps
