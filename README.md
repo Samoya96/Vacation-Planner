@@ -29,21 +29,15 @@ The Vacation Planner Mobile Application offers a comprehensive suite of capabili
  
    https://samoyatech.github.io/D424-Vacation-Planner-App/
 
- 
+
 2. Transfer the APK to an Android device if necessary.
 3. On the device, enable installation from unknown sources:  
    Settings → Security → Install unknown apps
 4. Tap the APK file to install the application.
 5. Launch the app from the device’s application menu.
 
-## 6. Technologies Used
-- Java – primary programming language
-- Android Studio – development environment
-- Room Persistence Library – local database storage
-- Gradle – build automation
-- AndroidX Libraries – UI and lifecycle components
 
-## 7. Version Information
+## 6. Version Information
 Version 1.0 – Capstone Release  
 Includes all required features for the WGU Software Development Capstone.
 
